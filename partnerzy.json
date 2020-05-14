@@ -1,0 +1,64 @@
+[
+    {
+        "name": "Smyk Sp. Z o.o.",
+        "img": "",
+        "lokalizacje": ["ul. Wojska Polskiego 1 85-171 Bydgoszcz", "ul. Złota Karczma 26 80-298 Gdańsk ", "ul. Pszczyńska 315 44-100 Gliwice ", "ul. Chorzowska 107 40-101 Katowice ", "ul. Warszawska 26 25-312 Kielce ", "ul. Kamieńskiego 11 30-644 Kraków ", "ul. Różańskiego 32 32-085 Kraków ", "ul. W. Witosa 32 20-331 Lublin ", "ul. Tuwima 26 10-748 Olsztyn", "ul. Wrocławska 154 45-837 Opole ", "ul. Szwedzka 6 61-285 Poznań ", "ul. Marszałka J. Piłsudskiego 44 35-001 Rzeszów ", "ul. A. Struga, Prawobrzeże 42 70-784 Szczecin ", "ul. Malborska 39 03-286 Warszawa", "ul. Czekoladowa 9 55-040 Kobierzyce ", "ul. Mszczonowska 3 05-090 Janki"],
+        "online": "https://www.smyk.com/search?q=grande%20lx",
+    },
+
+    {
+        "name": "Akpol Baby",
+        "img": "",
+        "lokalizacje": ["Ul. Jaśkowa Dolina 84 80-286 Gdańsk", "Ul. Gdańska 140 85-021 Bydgoszcz", "Ul. Morska 122 81-225 Gdynia", "Ul. Wyszogrodzka 163 09-410 Płock", "Ul. Łukaszewicza 43 60-729 Poznań", "Ul. Łacina 6-8 60-132 Poznań", "Ul. Aleje Solidarności 42 (DT Kaufland) 61-696 Poznań", "Ul. Grunwaldzka 2 82-300 Elbląg"],
+        "online": "https://akpolbaby.pl/pl/szukaj?controller=search&orderby=position&orderway=desc&search_query=grande+lx&submit_search=",
+    },
+
+    {
+        "name": "Bobowózki",
+        "img": "",
+        "lokalizacje": ["Galeria Wnętrz, Karola Szajnochy 2, 85-738 Bydgoszcz", "Wujka 15/17, 61-581 Poznań", "Kiedrzyńska 9, 42-200 Częstochowa", "Marii Skłodowskiej-Curie 81A 87-100 Toruń", "Kołłątaja 1/A  75-448 Koszalin", "Majkowska 10, 62-800 Kalisz", "Kaliska 42, 63-400 Ostrów Wielkopolski"],
+        "online": "",
+    },
+
+    {
+        "name": "U Kubusia",
+        "img": "",
+        "lokalizacje": ["Adama Olbrachta Przyjmy-Przyjemskiego 10, 63-900 Rawicz", "Narutowicza 84, 64-100 Leszno", "Wrocławska 7, 59-300 Lubin", "Bolesława Krzywoustego 82, 51-166 Wrocław", "Marszałka Józefa Piłsudskiego 1, 67-200 Głogów"],
+        "online": "http://ukubusia.iai-shop.com/search.php?text=grande+lx",
+    },
+
+    {
+        "name": "TOSIA.PL",
+        "img": "",
+        "lokalizacje": ["Warszawa Trasa Toruńska ul. Kopijników 67b", "Siemianowice Śląskie, ul Powstańców 34", "ul. Pasaż Stokłosy 11 przy stacji Metro Ursynów", "ul. Legendy 10 w pobliżu Hali Wola"],
+        "online": "https://www.sklep-tosia.eu/kinderkraft-grande-lx-2020-joanna-krupa_p1052_k94_m206",
+    },
+
+    {
+        "name": "Sklep Bobas Krosno",
+        "img": "",
+        "lokalizacje": ["UL. PARKOWA 2 66-600 KROSNO ODRZAŃSKIE", "UL. PIŁSUDSKIEGO 57 66-400 GORZÓW WIELKOPOLSKI", "UL. LOTNIKÓW 2 68-200 ŻARY", "Ul. KOŚCIUSZKI 3A 69-100 SŁUBICE"],
+        "online": "https://bobassklep.pl/szukaj?controller=search&s=grande+lx",
+    },
+
+    {
+        "name": "Centrum Dziecięce Mieszko",
+        "img": "",
+        "lokalizacje": ["ul.Jana Pawła II 16 33-100 Tarnów", "ul.Parkowa 10, 39-200 Dębica", "ul. Piaskowa 139-300 Mielec", "ul. Okulickiego 6 35-222 Rzeszów"],
+        "online": "https://mieszkobaby.pl/szukaj?controller=search&s=grande+lx",
+    },
+
+    {
+        "name": "XLAND",
+        "img": "",
+        "lokalizacje": ["Malinowa 1, 44-240 Żory", "Krakowska 103, 43-300 Bielsko-Biała", "Chorzowska 214, 40-101 Katowice"],
+        "online": "https://ewozki.eu/pl/searchquery/grande+lx/1/phot/5?url=grande,lx",
+    },
+
+    {
+        "name": "Kubuś",
+        "img": "",
+        "lokalizacje": ["Brzeska 52, 32-700 Bochnia", "Lwowska 134A, 33-100 Tarnów", "Węgierska 146A, 33-300 Nowy Sącz"],
+        "online": "https://sklepkubus.pl/szukaj?controller=search&orderby=position&orderway=desc&search_query=grande+lx&submit_search=",
+    },
+]
