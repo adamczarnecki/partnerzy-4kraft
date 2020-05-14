@@ -40,6 +40,13 @@
         "lokalizacje": ["UL. PARKOWA 2 66-600 KROSNO ODRZAŃSKIE", "UL. PIŁSUDSKIEGO 57 66-400 GORZÓW WIELKOPOLSKI", "UL. LOTNIKÓW 2 68-200 ŻARY", "Ul. KOŚCIUSZKI 3A 69-100 SŁUBICE"],
         "online": "https://bobassklep.pl/szukaj?controller=search&s=grande+lx",
     },
+    {
+        "name": "Świat Dziecka Warszawa",
+        "img": "",
+        "lokalizacje": ["Aleja Krakowska 61, Warszawa", "ul. Malborska 45, Warszawa", "ul. Towarowa 22, Warszawa"],
+        "online": "https://swiatdziecka.pl/szukaj?controller=search&s=grande+lx",
+    },
+
 
     {
         "name": "Centrum Dziecięce Mieszko",
