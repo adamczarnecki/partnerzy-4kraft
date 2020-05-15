@@ -7,7 +7,7 @@
     },
     
     {
-        "name": "Smyk Sp. Z o.o.",
+        "name": "Smyk - Cały dla małych!",
         "img": "",
         "lokalizacje": ["ul.&nbsp;Wojska Polskiego 1 85-171 Bydgoszcz", "ul.&nbsp;Złota Karczma 26 80-298 Gdańsk ", "ul.&nbsp;Pszczyńska 315 44-100 Gliwice ", "ul.&nbsp;Chorzowska 107 40-101 Katowice ", "ul.&nbsp;Warszawska 26 25-312 Kielce ", "ul.&nbsp;Kamieńskiego 11 30-644 Kraków ", "ul.&nbsp;Różańskiego 32 32-085 Kraków ", "ul.&nbsp;W. Witosa 32 20-331 Lublin ", "ul.&nbsp;Tuwima 26 10-748 Olsztyn", "ul.&nbsp;Wrocławska 154 45-837 Opole ", "ul.&nbsp;Szwedzka 6 61-285 Poznań ", "ul.&nbsp;Marszałka J. Piłsudskiego 44 35-001 Rzeszów ", "ul.&nbsp;A. Struga, Prawobrzeże 42 70-784 Szczecin ", "ul.&nbsp;Malborska 39 03-286 Warszawa", "ul.&nbsp;Czekoladowa 9 55-040 Kobierzyce ", "ul.&nbsp;Mszczonowska 3 05-090 Janki"],
         "online": "https://www.smyk.com/search?q=grande%20lx"
@@ -80,7 +80,7 @@
         "name": "Smykoland",
         "img": "",
         "lokalizacje": ["Franklina Roosevelta 89, 62-200 Gniezno", "Hurtowa 2, 62-500 Konin", "Witosa 5, 87-800 Włocławek", "Generała Jana Henryka Dąbrowskiego 6, 87-100 Toruń"],
-        "online": ""
+        "online": "https://www.smykoland.pl/"
     },
 
     {
@@ -173,7 +173,12 @@
         "lokalizacje": ["Lewinowska 43D, 03-684 Warszawa"],
         "online": "https://www.tomi.pl/kinderkraft-wozek-spacerowy-grande-lx/"
     },
-    
+    {
+        "name": "Sklep Domiś",
+        "img": "",
+        "lokalizacje": ["Chopina 21, 62-510 Konin"],
+        "online": ""
+    },
     {
         "name": "Tobi",
         "img": "",
