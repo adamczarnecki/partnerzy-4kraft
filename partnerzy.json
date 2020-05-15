@@ -151,5 +151,33 @@
         "img": "",
         "lokalizacje": ["Roosevelta 54, 41-800 Zabrze"],
         "online": "https://www.babyland.pl/pl/product/102579,kinderkraft-grande-lx-wozek-spacerowy"
+    },
+    
+    {
+        "name": "Entliczek",
+        "img": "",
+        "lokalizacje": ["ul. Dobrego Pasterza 122a, 31-416 Kraków"],
+        "online": ""
+    },
+    
+    {
+        "name": "ELBIS",
+        "img": "",
+        "lokalizacje": ["ul. Boruty - Spiechowicza 39, 43-300 Bielsko-Biała"],
+        "online": "https://agdperfekt.pl/category/?q=grande+lx#top"
+    },
+    
+    {
+        "name": "TOMI",
+        "img": "",
+        "lokalizacje": ["Lewinowska 43D, 03-684 Warszawa"],
+        "online": "https://www.tomi.pl/kinderkraft-wozek-spacerowy-grande-lx/"
+    },
+    
+    {
+        "name": "Tobi",
+        "img": "",
+        "lokalizacje": ["Przyleśna 1, 65-544 Zielona Góra"],
+        "online": "https://tobisklep.pl/447157-102403-kinderkraft-grande-lx-2020-wozek-spacerowy.html"
     }
 ]
