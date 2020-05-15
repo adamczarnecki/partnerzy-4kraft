@@ -287,5 +287,647 @@
         "img": "",
         "lokalizacje": ["Ozimska 181, 45-310 Opole", "Towarowa 1, 49-303 Nysa"],
         "online": ""
+    },
+    
+    {
+        "name": "Maluszek",
+        "img": "",
+        "lokalizacje": ["Wodzisławska 116, 44-218 Rybnik"],
+        "online": "https://www.maluszeksklep.pl/pl/search/kinderkraft%20grande"
+    },
+    
+    {
+        "name": "Sklep Brzdąc",
+        "img": "",
+        "lokalizacje": ["ul. Targowa 14, 44-300 Wodzisław Śląski"],
+        "online": "http://www.sklepbrzdac.pl/wozek-spacerowy-kinderkraft-grande-lx-p-10207.html"
+    },
+    
+    {
+        "name": "Markusia",
+        "img": "",
+        "lokalizacje": ["Rybnicka 2D, 44-300 Wodzisław Śląski"],
+        "online": "http://www.markusia.pl/index.php?pg=produkty&sort=hits&all=0&szukaj=1&query=grande&x=0&y=0"
+    },
+    
+    {
+        "name": "Centrum Dziecięce Ares",
+        "img": "",
+        "lokalizacje": ["Piaski Nad Rzeką 2, 25-559 Kielce"],
+        "online": "https://www.babyland.pl/pl/product/102579,kinderkraft-grande-lx-wozek-spacerowy"
+    },
+    
+    {
+        "name": "Kimex",
+        "img": "",
+        "lokalizacje": ["Warszawska 150, 26-600 Radom", "Aleja Wojska Polskiego 22/24"],
+        "online": "http://www.babymarket.pl/kinderkraft-wozek-spacerowy-grande-lx-sp-76-77159"
+    },
+    
+    {
+        "name": "BABY SHOP",
+        "img": "",
+        "lokalizacje": ["Biskupia 46, 04-216 Warszawa"],
+        "online": ""
+    },
+    
+    {
+        "name": "Bajamix",
+        "img": "",
+        "lokalizacje": ["Marszałka Piłsudskiego 11, 27-200 Starachowice"],
+        "online": ""
+    },
+    
+    {
+        "name": "BEJBI",
+        "img": "",
+        "lokalizacje": ["Stanisława Przybyszewskiego 107A, 93-110 Łódź"],
+        "online": "https://bejbi.eu/szukaj?controller=search&orderby=position&orderway=desc&search_query=grande+lx&submit_search="
+    },
+    
+    {
+        "name": "Aga ",
+        "img": "",
+        "lokalizacje": ["Lwowska 39 , 22-600 Tomaszów Lubelski"],
+        "online": ""
+    },
+    
+    {
+        "name": "Boboland  ",
+        "img": "",
+        "lokalizacje": ["Janowska 38, 08-110 Siedlce"],
+        "online": ""
+    },
+    
+    {
+        "name": "RADEX ",
+        "img": "",
+        "lokalizacje": ["Giermków 9, 82-300 Elbląg"],
+        "online": ""
+    },
+    
+    {
+        "name": "Bobas ",
+        "img": "",
+        "lokalizacje": ["5 Stycznia 10, 64-200 Wolsztyn"],
+        "online": ""
+    },
+    
+    {
+        "name": "Calineczka",
+        "img": "",
+        "lokalizacje": ["Grochowska 180, 04-357 Warszawa"],
+        "online": "https://www.calineczka.pl/szukaj.html/szukaj=GRANDE%20LX/opis=nie/nrkat=tak/kodprod=tak"
+    },
+
+    {
+        "name": "Boboland ",
+        "img": "",
+        "lokalizacje": ["Staromiejska 40, 27-600 Sandomierz"],
+        "online": ""
+    },
+    
+    {
+        "name": "Świat Dziecka",
+        "img": "",
+        "lokalizacje": ["Kielecka 76, 26-600 Radom"],
+        "online": "https://swiat-dziecka-24.pl/wozki-dzieciece/1867-427-wozek-spacerowy-grande-lx-kinderkraft.html#/368-kinderkraft_kolorystyka-burgundy"
+    },
+    
+    {
+        "name": "Hexpol",
+        "img": "",
+        "lokalizacje": ["Marywilska 44/ H024, 03-042 Warszawa"],
+        "online": ""
+    },
+    
+    {
+        "name": "DM",
+        "img": "",
+        "lokalizacje": ["Fabryczna 2E, 98-300 Wieluń"],
+        "online": ""
+    },
+    
+    {
+        "name": "Świat Dziecka  Kartuzy",
+        "img": "",
+        "lokalizacje": ["Gdańska 34, 83-300 Kartuzy"],
+        "online": ""
+    },
+    
+    {
+        "name": "Baby Fant",
+        "img": "",
+        "lokalizacje": ["Lotnicza 3, 20-322 Lublin"],
+        "online": ""
+    },
+    
+    {
+        "name": "Świat Dziecka",
+        "img": "",
+        "lokalizacje": ["Kostromska 48C, 97-300 Piotrków Trybunalski"],
+        "online": "https://www.bobiland.pl/sklep/wozki-dzieciece/wozki-spacerowe/kinderkraft-grande-lx-wozek-spacerowy-nowosc-2020/"
+    },
+    
+    {
+        "name": "Patworld",
+        "img": "",
+        "lokalizacje": ["ks. M. Tokarzewskiego 9A/5, 05-825 Grodzisk Mazowiecki"],
+        "online": ""
+    },
+    
+    {
+        "name": "Pępek Świata",
+        "img": "",
+        "lokalizacje": ["Nowodworska 7, 21-100 Lubartów"],
+        "online": ""
+    },
+    
+    {
+        "name": "Bobasek Sukienników",
+        "img": "",
+        "lokalizacje": ["5, 89-620 Chojnice"],
+        "online": ""
+    },
+    
+    {
+        "name": "Wiktoria",
+        "img": "",
+        "lokalizacje": ["Warszawska 111, Warszawska 105/109, 21-500 Biała Podlaska"],
+        "online": ""
+    },
+    
+    {
+        "name": "Świat Dziecka Sezam Plus",
+        "img": "",
+        "lokalizacje": ["700-Lecia 27/28b, 72-200 Nowogard"],
+        "online": ""
+    },
+
+    {
+        "name": "Sklep Puchatek",
+        "img": "",
+        "lokalizacje": ["Wojska Polskiego 44, 63-200 Jarocin"],
+        "online": "http://puchatekjarocin.pl/kontakt"
+    }
+,
+    
+    {
+        "name": "Kropka",
+        "img": "",
+        "lokalizacje": ["Generała Józefa Sowińskiego 8A, 05-120 Legionowo"],
+        "online": ""
+    }
+,
+    
+    {
+        "name": "Bambi Centrum Dziecięce",
+        "img": "",
+        "lokalizacje": ["Aleja marszałka Józefa Piłsudskiego 35, 09-407 Płock"],
+        "online": "http://bambi-plock.pl/"
+    }
+,
+    
+    {
+        "name": "For Kids",
+        "img": "",
+        "lokalizacje": ["ul. Torfowa 2, 30-383 Kraków"],
+        "online": "https://www.forkids.pl/"
+    }
+,
+    
+    {
+        "name": "Mami Kids",
+        "img": "",
+        "lokalizacje": ["Janowska 100, 08-110 Siedlce"],
+        "online": "https://mamikids.pl/"
+    }
+,
+    
+    {
+        "name": "Urwis",
+        "img": "",
+        "lokalizacje": ["20 Stycznia 37, 95-200 Pabianice"],
+        "online": "https://sklepurwis.pl/"
+    }
+,
+    
+    {
+        "name": "TUKIDS",
+        "img": "",
+        "lokalizacje": ["Rawska 55, 96-100 Skierniewice"],
+        "online": "http://www.tukids.pl/"
+    }
+,
+    
+    {
+        "name": "Sklep dla Maluchów",
+        "img": "",
+        "lokalizacje": ["Warszawska 28, 12-200 Pisz"],
+        "online": ""
+    }
+,
+    
+    {
+        "name": "Dziecięce Centrum Bezpieczeństwa Smyk Bełchatów",
+        "img": "",
+        "lokalizacje": ["Al. Wyszyńskiego 25, 97-400 Bełchatów"],
+        "online": ""
+    }
+,
+    
+    {
+        "name": "Słoń",
+        "img": "",
+        "lokalizacje": ["Pojezierska 99a, 91-341 Łódź"],
+        "online": "https://slonsklep.pl/"
+    }
+,
+    
+    {
+        "name": "Miś",
+        "img": "",
+        "lokalizacje": ["Tomaszów Mazowiecki Polna 6, 97-20"],
+        "online": ""
+    }
+,
+    
+    {
+        "name": "Smykuś",
+        "img": "",
+        "lokalizacje": ["Nowotoruńska 12, 85-840 Bydgoszcz"],
+        "online": "http://www.smykus.bydgoszcz.pl/"
+    }
+,
+    
+    {
+        "name": "Twój Smyk",
+        "img": "",
+        "lokalizacje": ["Kolejowa 4, 62-100 Wągrowiec"],
+        "online": ""
+    }
+,
+    
+    {
+        "name": "Tygrysek",
+        "img": "",
+        "lokalizacje": ["Gdańska 141, 84-200 Wejherowo"],
+        "online": "http://etygrysek.pl/"
+    }
+,
+    
+    {
+        "name": "Dino",
+        "img": "",
+        "lokalizacje": ["Piotrkowska 91, 90-423 Łódź"],
+        "online": "https://dino.sklep.pl/"
+    }
+,
+    
+    {
+        "name": "Wszystko dla Dziecka Parczew",
+        "img": "",
+        "lokalizacje": ["Parczew 21-200"],
+        "online": ""
+    }
+,
+    
+    {
+        "name": "Sklep Bambi",
+        "img": "",
+        "lokalizacje": ["Kluczbork Grunwaldzka 13a"],
+        "online": "http://sklep-bambi.pl/"
+    }
+,
+    
+    {
+        "name": "Świat Dziecka",
+        "img": "",
+        "lokalizacje": ["Kopernika Mikołaja 9A, Bartoszyce 11-200"],
+        "online": ""
+    }
+,
+    
+    {
+        "name": "Sklep Oskar",
+        "img": "",
+        "lokalizacje": ["Tysiąclecia 14f, 38-400 Krosno"],
+        "online": "https://www.wozki-skleposkar.pl/"
+    }
+,
+    
+    {
+        "name": "Sklep Dziecięcy Peppe",
+        "img": "",
+        "lokalizacje": ["Jabłonka ul. Sobieskiego 41"],
+        "online": ""
+    }
+,
+    
+    {
+        "name": "SmileKids",
+        "img": "",
+        "lokalizacje": ["Harcerska 7, 34-400 Nowy Targ"],
+        "online": "https://smilekids.pl/"
+    }
+,
+    
+    {
+        "name": "DANEX - Wózki i Foteliki dla Twojego Dziecka",
+        "img": "",
+        "lokalizacje": ["Dąbrowa 156, 33-311 Dąbrowa"],
+        "online": "https://www.danex24.pl/"
+    }
+,
+    
+    {
+        "name": "Ancymonek",
+        "img": "",
+        "lokalizacje": ["Kazimierza Wielkiego 7, 38-200 Jasło"],
+        "online": "https://www.ancymonek.net/"
+    }
+,
+    
+    {
+        "name": "Dzieciak",
+        "img": "",
+        "lokalizacje": ["Lwowska 62, 37-700 Przemyśl"],
+        "online": ""
+    },
+    
+    {
+        "name": "DamilTrans - MamoKupMi",
+        "img": "",
+        "lokalizacje": ["ul.Elektrowniana 2, 37-500 Jarosław", "ul. Brudzewskiego 1 37-700 Przemyśl"],
+        "online": "https://mamokupmi.pl/index.php?route=product/search&search=KINDERKRAFT%20GRANDE"
+    },
+    
+    {
+        "name": "eKokardka.pl",
+        "img": "",
+        "lokalizacje": ["42-200 Częstochowa,ul. 1 Maja 21"],
+        "online": "https://ekokardka.pl/"
+    }
+,
+    
+    {
+        "name": "ABC Dzieciaka",
+        "img": "",
+        "lokalizacje": ["Wita Stwosza 63, 35-111 Rzeszów"],
+        "online": ""
+    }
+,
+    
+    {
+        "name": "Swiat Dziecka",
+        "img": "",
+        "lokalizacje": ["Władysława Broniewskiego 26, 47-225 Kędzierzyn-Koźle"],
+        "online": "http://baby-centrum.pl/q/?keywords=GRANDE%20LX"
+    }
+,
+    
+    {
+        "name": "Minilo",
+        "img": "",
+        "lokalizacje": ["Urszulańska 5, 33-100 Tarnów"],
+        "online": "https://minilo.com.pl/pl/searchquery/GRANDE+LX/1/phot/5?url=GRANDE,LX"
+    }
+,
+    
+    {
+        "name": "RAJ DZIECKA",
+        "img": "",
+        "lokalizacje": ["Ułanów 2, 44-194 Knurów"],
+        "online": ""
+    }
+,
+    
+    {
+        "name": "ŚWIAT DZIECKA Kraków",
+        "img": "",
+        "lokalizacje": ["osiedle Zgody 7, 31-949 Kraków"],
+        "online": "https://www.sdkrak.pl/wozki/6476-kinderkraft-wozek-spacerowy-grande-lx.html"
+    }
+,
+    
+    {
+        "name": "Salon Dziecięcy Racibórz",
+        "img": "",
+        "lokalizacje": ["Starowiejska 147, 47-400 Racibórz"],
+        "online": "https://bobo.sklep.pl/"
+    }
+,
+    
+    {
+        "name": "Blancababy",
+        "img": "",
+        "lokalizacje": ["Michała Grażyńskiego 40 parter, 43-300 Bielsko-Biała"],
+        "online": "https://blancababy.pl/"
+    }
+,
+    
+    {
+        "name": "Elhand-baby",
+        "img": "",
+        "lokalizacje": ["Zagórska 159, 42-600 Tarnowskie Góry"],
+        "online": "https://elhand-baby.pl/szukaj?controller=search&s=GRANDE+LX"
+    }
+,
+    
+    {
+        "name": "Milimali",
+        "img": "",
+        "lokalizacje": ["Opawska 23, 47-400 Racibórz"],
+        "online": "https://sklep.milimali.pl/"
+    },
+    
+    {
+        "name": "Sklep Kiki",
+        "img": "",
+        "lokalizacje": ["Gorlice ul.Biecka 1", "Nowy Sącz ul. Tarnowska 169"],
+        "online": "https://www.sklepkiki.pl/art5354_kinderkraft-wozek-spacerowy-grande-lx-burgund.html#main"
+    },
+    
+    {
+        "name": "Wózki Śląsk Sklep Dziecięcy",
+        "img": "",
+        "lokalizacje": ["aleja Hugona Kołłątaja 16, 42-500 Będzin"],
+        "online": "https://wozkislask.pl/produkt/kinderkraft-grande-lx/"
+    }
+,
+    
+    {
+        "name": "Babyspec",
+        "img": "",
+        "lokalizacje": ["Krakowska 45, 42-200 Częstochowa"],
+        "online": "https://babyspec.pl/kinderkraft-grande-lx-wozek-spacerowy,pr,mp,152.html,646"
+    }
+,
+    
+    {
+        "name": "Sklep dziecięcy BabyBum",
+        "img": "",
+        "lokalizacje": ["Stefana Batorego 5, 43-300 Bielsko-Biała"],
+        "online": "http://www.babybum.com.pl/232-kinderkraft?orderby=price&orderway=desc"
+    }
+,
+    
+    {
+        "name": "Tuptuś",
+        "img": "",
+        "lokalizacje": ["Częstochowska 52, 42-160 Krzepice"],
+        "online": ""
+    }
+,
+    
+    {
+        "name": "Bociek",
+        "img": "",
+        "lokalizacje": ["Mikulczycka 1, 41-800 Zabrze"],
+        "online": "https://www.bociek.eu/8322-kinderkraft-grande-lx-lekki-wozek-spacerowy-na-kazda-pogode.html"
+    }
+,
+    
+    {
+        "name": "Smoqś",
+        "img": "",
+        "lokalizacje": ["Jagiellońska 2, 48-300 Nysa"],
+        "online": ""
+    }
+,
+    
+    {
+        "name": "Karole",
+        "img": "",
+        "lokalizacje": [],
+        "online": "https://swiat-bobasa.pl/"
+    }
+,
+    
+    {
+        "name": "4kidspoint.pl",
+        "img": "",
+        "lokalizacje": [],
+        "online": "https://4kidspoint.pl/szukaj?search_query=grande+lx&manufacturer=822&orderby=name"
+    }
+,
+    
+    {
+        "name": "mybubu.pl",
+        "img": "",
+        "lokalizacje": [],
+        "online": "https://mybubu.pl/search.php?text=grande+lx"
+    }
+,
+    
+    {
+        "name": "4Happy",
+        "img": "",
+        "lokalizacje": [],
+        "online": "https://4happy.pl/"
+    }
+,
+    
+    {
+        "name": "Babyhit.pl",
+        "img": "",
+        "lokalizacje": [],
+        "online": "https://babyhit.pl/product-pol-33656-Kinderkraft-Grande-LX-Wozek-Spacerowy.html"
+    }
+,
+    
+    {
+        "name": "Achoś",
+        "img": "",
+        "lokalizacje": [],
+        "online": "http://www.achos.pl/"
+    }
+,
+    
+    {
+        "name": "Komiskolorowanka.pl",
+        "img": "",
+        "lokalizacje": [],
+        "online": "https://Komiskolorowanka.pl"
+    }
+,
+    
+    {
+        "name": "BabyBoom",
+        "img": "",
+        "lokalizacje": [],
+        "online": "https://babyboom.net.pl/wozek-spacerowy-kinderkraft-grande-lx.html"
+    }
+,
+    
+    {
+        "name": "ABC Dzieciaka",
+        "img": "",
+        "lokalizacje": ["Częstochowska 177, 62-800 Kalisz"],
+        "online": ""
+    }
+,
+    
+    {
+        "name": "URWIS",
+        "img": "",
+        "lokalizacje": ["Karola Marcinkowskiego 2d, Środa Wielkopolska"],
+        "online": ""
+    }
+,
+    
+    {
+        "name": "SKLEP Dziecięcy SEBA",
+        "img": "",
+        "lokalizacje": ["Ostrów Wielkopolski"],
+        "online": ""
+    }
+,
+    
+    {
+        "name": "Kajtek",
+        "img": "",
+        "lokalizacje": ["Karola Szajnochy 6, 85-738 Bydgoszcz"],
+        "online": ""
+    }
+,
+    
+    {
+        "name": "mominek.pl",
+        "img": "",
+        "lokalizacje": ["Mrągowo"],
+        "online": "https://mominek.pl/kinderkraft-grande-lx-wozek-spacerowy-p-2031.html"
+    }
+,
+    
+    {
+        "name": "Krispol",
+        "img": "",
+        "lokalizacje": ["Wąska 12, 59-800 Lubań"],
+        "online": ""
+    }
+,
+    
+    {
+        "name": "Mix Kid",
+        "img": "",
+        "lokalizacje": ["Gubin - 3-go Maja 10"],
+        "online": ""
+    }
+,
+    
+    {
+        "name": "Baby Cars",
+        "img": "",
+        "lokalizacje": ["Obrońców Westerplatte 36, 41-710 Ruda"],
+        "online": ""
+    }
+,
+    
+    {
+        "name": "Pido",
+        "img": "",
+        "lokalizacje": ["KONIŃSKA 24 Turek"],
+        "online": ""
     }
 ]
