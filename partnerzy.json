@@ -148,13 +148,13 @@
     {
         "name": "  5.10.15  ",
         "img": "",
-        "lokalizacje": [""],
+        "lokalizacje": [],
         "online": "https://www.51015kids.eu/kinder-kraft"
     }, 
     {
         "name": "  al.to  ",
         "img": "",
-        "lokalizacje": [""],
+        "lokalizacje": [],
         "online": "https://www.al.to/szukaj?q=kinderkraft"
     },
 
@@ -196,5 +196,96 @@
         "img": "",
         "lokalizacje": ["Przyleśna 1, 65-544 Zielona Góra"],
         "online": "https://tobisklep.pl/447157-102403-kinderkraft-grande-lx-2020-wozek-spacerowy.html"
+    },
+    
+    {
+        "name": "LE-GO",
+        "img": "",
+        "lokalizacje": ["Rolna 6, 25-001 Kielce"],
+        "online": ""
+    },
+    
+    {
+        "name": "3xk",
+        "img": "",
+        "lokalizacje": ["Elekcyjna 19/U2, 01-128 Warszawa"],
+        "online": "https://3xk.pl/search.php?text=GRANDE+LX"
+    },
+    
+    {
+        "name": "Malutek",
+        "img": "",
+        "lokalizacje": ["Polna 20, 62-800 Kalisz"],
+        "online": "https://babynet.pl/advanced_search_result.php?keywords=grande&sStore=5f903c239d303273f13d68bdf3c1e7ce"
+    },
+    
+    {
+        "name": "HURTOWNIA KANGUREK",
+        "img": "",
+        "lokalizacje": ["Towarowa 9, 10-416 Olsztyn"],
+        "online": ""
+    },
+    
+    {
+        "name": "NEON",
+        "img": "",
+        "lokalizacje": ["Mełgiewska 26, 20-234 Lublin"],
+        "online": "https://www.neonn.com.pl/index.php?route=product/search&search=grande%20lx"
+    },
+    
+    {
+        "name": "Mulan",
+        "img": "",
+        "lokalizacje": ["Traktorowa 148/158 wejście od ul. Duńskiej, 91-204 Łódź"],
+        "online": "https://mulan.pl/category/?o_p_2565=1&q=kindekraft"
+    },
+    
+    {
+        "name": "Baby Room Kolorowy Świat Dziecka",
+        "img": "",
+        "lokalizacje": ["Przejazd 7, 05-100 Nowy Dwór Mazowiecki"],
+        "online": ""
+    },
+    
+    {
+        "name": "NW",
+        "img": "",
+        "lokalizacje": ["Norwida 9A, 26-100 Skarżysko-Kamienna"],
+        "online": ""
+    },
+    
+    {
+        "name": "Od Brzuszka do maluszka",
+        "img": "",
+        "lokalizacje": [" Lubelska 57, 24-100 Puławy"],
+        "online": ""
+    },
+    
+    {
+        "name": "MADAR",
+        "img": "",
+        "lokalizacje": ["Ujrzanów 282c, 08-110 Siedlce"],
+        "online": "https://madarbaby.pl/wozki-spacerowe-dzieciece/1/default/1/f_producer_353/1"
+    },
+    
+    {
+        "name": "Mama i Ja",
+        "img": "",
+        "lokalizacje": ["Wojska Polskiego 44, 73-110 Stargard"],
+        "online": ""
+    },
+    
+    {
+        "name": "Bejbi Bum",
+        "img": "",
+        "lokalizacje": ["Jacewska 32, 88-100 Inowrocław"],
+        "online": ""
+    },
+    
+    {
+        "name": "ZakupyDlaDzieci ",
+        "img": "",
+        "lokalizacje": ["Ozimska 181, 45-310 Opole", "Towarowa 1, 49-303 Nysa"],
+        "online": ""
     }
 ]
