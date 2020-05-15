@@ -37,12 +37,12 @@
     {
         "name": "TOSIA.PL",
         "img": "",
-        "lokalizacje": ["Warszawa Trasa Toruńska ul.&nbsp;Kopijników 67b", "Siemianowice Śląskie, ul Powstańców 34", "ul.&nbsp;Pasaż Stokłosy 11 przy stacji Metro Ursynów", "ul.&nbsp;Legendy 10 w pobliżu Hali Wola"],
+        "lokalizacje": ["Warszawa Trasa Toruńska ul.&nbsp;Kopijników 67b", "Siemianowice Śląskie, ul Powstańców 34", "ul.&nbsp;Pasaż Stokłosy 11 przy stacji Metro Ursynów, Warszawa", "ul.&nbsp;Legendy 10 w pobliżu Hali Wola, Warszawa"],
         "online": "https://www.sklep-tosia.eu/kinderkraft-grande-lx-2020-joanna-krupa_p1052_k94_m206"
     },
 
     {
-        "name": "Sklep Bobas Krosno",
+        "name": "Sklep Bobas",
         "img": "",
         "lokalizacje": ["UL.&nbsp;PARKOWA 2 66-600 KROSNO ODRZAŃSKIE", "UL.&nbsp;PIŁSUDSKIEGO 57 66-400 GORZÓW WIELKOPOLSKI", "UL.&nbsp;LOTNIKÓW 2 68-200 ŻARY", "Ul.&nbsp;KOŚCIUSZKI 3A 69-100 SŁUBICE"],
         "online": "https://bobassklep.pl/szukaj?controller=search&s=grande+lx"
