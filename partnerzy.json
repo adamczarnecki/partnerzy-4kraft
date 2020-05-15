@@ -16,7 +16,7 @@
     {
         "name": "Akpol Baby",
         "img": "",
-        "lokalizacje": ["Ul.&nbsp;Jaśkowa Dolina 84 80-286 Gdańsk", "Ul.&nbsp;Gdańska 140 85-021 Bydgoszcz", "Ul.&nbsp;Morska 122 81-225 Gdynia", "Ul.&nbsp;Wyszogrodzka 163 09-410 Płock", "Ul.&nbsp;Łukaszewicza 43 60-729 Poznań", "Ul.&nbsp;Łacina 6-8 60-132 Poznań", "Ul.&nbsp;Aleje Solidarności 42 (DT Kaufland) 61-696 Poznań", "Ul. Grunwaldzka 2 82-300 Elbląg"],
+        "lokalizacje": ["Ul.&nbsp;Jaśkowa Dolina 84 80-286 Gdańsk", "Ul.&nbsp;Gdańska 140 85-021 Bydgoszcz", "Ul.&nbsp;Morska 122 81-225 Gdynia", "Ul.&nbsp;Wyszogrodzka 163 09-410 Płock", "Ul.&nbsp;Łukaszewicza 43 60-729 Poznań", "Ul.&nbsp;Łacina 6-8 60-132 Poznań", "Ul.&nbsp;Aleje Solidarności 42 (DT Kaufland) 61-696 Poznań", "Ul. Grunwaldzka 2 82-300 Elbląg"],
         "online": "https://akpolbaby.pl/pl/szukaj?controller=search&orderby=position&orderway=desc&search_query=grande+lx&submit_search="
     },
 
@@ -74,5 +74,82 @@
         "img": "",
         "lokalizacje": ["Brzeska 52, 32-700 Bochnia", "Lwowska 134A, 33-100 Tarnów", "Węgierska 146A, 33-300 Nowy Sącz"],
         "online": "https://sklepkubus.pl/szukaj?controller=search&orderby=position&orderway=desc&search_query=grande+lx&submit_search="
+    },
+
+    {
+        "name": "Smykoland",
+        "img": "",
+        "lokalizacje": ["Franklina Roosevelta 89, 62-200 Gniezno", "Hurtowa 2, 62-500 Konin", "Witosa 5, 87-800 Włocławek", "Generała Jana Henryka Dąbrowskiego 6, 87-100 Toruń"],
+        "online": ""
+    },
+
+    {
+        "name": "ASKOT",
+        "img": "",
+        "lokalizacje": ["Braniborska 70, 11-400 Wrocław", " Zakrzowska 29, 51-318 Wrocław"],
+        "online": "https://askot.pl/szukaj?controller=search&s=grande+lx"
+    },
+
+    {
+        "name": "Krasnal",
+        "img": "",
+        "lokalizacje": ["ul. Żołnierza Polskiego 541-902 BYTOM", "ul. Papieża Jana Pawła II 49, 41-940 PIEKARY ŚLĄSKIE", "ul. Kubsza 24B,44-300 Wodzisław Śląski"],
+        "online": ""
+    },
+
+    {
+        "name": "MEGAURWIS SPÓŁKA Z OGRANICZONĄ ODPOWIEDZ",
+        "img": "",
+        "lokalizacje": ["Emilii Plater 2, 58-205 Świdnica", "1-go Maja 2, 40-224 Katowice", "Żmigrodzka 249 E, 51-129 Wrocław"],
+        "online": "https://www.megaurwis.pl/klasyczne/7061-kinderkraft-grande-lx-wozek-spacerowy-5902533914319.html"
+    },
+
+    {
+        "name": "Pati i Maks",
+        "img": "",
+        "lokalizacje": ["Polna 40, 60-533 Poznań", "Targowa 9a, 66-400 Gorzów Wielkopolski"],
+        "online": "https://patiimaks.pl/szukaj/?string=grande+lx&search=product"
+    },
+
+    {
+        "name": "Jowiś",
+        "img": "",
+        "lokalizacje": ["Piłsudskiego 27A, 05-600 Grójec", "2 Sierpnia 9, 05-800 Pruszków"],
+        "online": ""
+    },
+
+    {
+        "name": "Polter ",
+        "img": "",
+        "lokalizacje": ["17 Stycznia 72, 64-100 Leszno", " Kiełczewo, Poznańska 13, 64-000 Kościan"],
+        "online": ""
+    },
+
+    {
+        "name": "Jaśkosklep",
+        "img": "",
+        "lokalizacje": ["Staromiejska 4, 41-800 Zabrze"],
+        "online": "https://jaskosklep.pl/wozki-spacerowe/kinderkraft-grande-2020?search_query=grande+lx&results=3"
+    },
+
+    {
+        "name": "Hurtownia Boboland",
+        "img": "",
+        "lokalizacje": ["Michała Kmiecika 1, 70-809 Szczecin"],
+        "online": "https://boboland24.pl/Kinderkraft/Kinderkraft-Grande-lx"
+    },
+
+    {
+        "name": "Sklep Tik Tak",
+        "img": "",
+        "lokalizacje": ["ul.Traugutta 30 , 75-579 Koszalin"],
+        "online": "https://www.bobozakupy.pl/spacerowe/9014-wozek-spacerowy-kinderkraft-grande-lx-nowosc-2020.html?search_query=grande+lx&results=1"
+    },
+
+    {
+        "name": "VIKI",
+        "img": "",
+        "lokalizacje": ["Roosevelta 54, 41-800 Zabrze"],
+        "online": "https://www.babyland.pl/pl/product/102579,kinderkraft-grande-lx-wozek-spacerowy"
     }
 ]
