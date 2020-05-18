@@ -103,10 +103,17 @@
     },
 
     {
-        "name": "MEGAURWIS SPÓŁKA Z OGRANICZONĄ ODPOWIEDZ",
+        "name": "MEGAURWIS",
         "img": "",
         "lokalizacje": ["Emilii Plater 2, 58-205 Świdnica", "1-go Maja 2, 40-224 Katowice", "Żmigrodzka 249 E, 51-129 Wrocław"],
         "online": "https://www.megaurwis.pl/klasyczne/7061-kinderkraft-grande-lx-wozek-spacerowy-5902533914319.html"
+    },
+    
+     {
+        "name": "Dudek Dla Dzieci",
+        "img": "",
+        "lokalizacje": ["Dzielna 21, 01-029 Warszawa", "Mehoffera 26, 03-144 Warszawa"],
+        "online": "https://dudekdladzieci.pl/"
     },
 
     {
@@ -425,6 +432,12 @@
         "img": "",
         "lokalizacje": ["Kostromska 48C, 97-300 Piotrków Trybunalski"],
         "online": "https://www.bobiland.pl/sklep/wozki-dzieciece/wozki-spacerowe/kinderkraft-grande-lx-wozek-spacerowy-nowosc-2020/"
+    },
+    {
+        "name": "Domiś",
+        "img": "",
+        "lokalizacje": ["ul. Chopina 21, 62-510 Konin"],
+        "online": ""
     },
     
     {
