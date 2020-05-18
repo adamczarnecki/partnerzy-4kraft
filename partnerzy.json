@@ -169,7 +169,7 @@
         "name": "Entliczek",
         "img": "",
         "lokalizacje": ["ul. Dobrego Pasterza 122a, 31-416 Kraków"],
-        "online": ""
+        "online": "https://www.babyland.pl/pl/product/102579,kinderkraft-grande-lx-wozek-spacerowy"
     },
     
     {
@@ -418,8 +418,8 @@
     {
         "name": "Baby Fant",
         "img": "",
-        "lokalizacje": ["Lotnicza 3, 20-322 Lublin"],
-        "online": ""
+        "lokalizacje": ["Lotnicza 3, 20-322 Lublin","budowlana 44 , 20-469 Lublin", "Piłsudskiego 14 , 24-100 Puławy"],
+        "online": "https://kinderoutlet.pl/produkt/kinderkraft-wozek-spacerowy-grande-lx-black-czarny-2020-012441-3/"
     },
     
     {
@@ -484,7 +484,7 @@
         "name": "Bambi Centrum Dziecięce",
         "img": "",
         "lokalizacje": ["Aleja marszałka Józefa Piłsudskiego 35, 09-407 Płock"],
-        "online": "http://bambi-plock.pl/"
+        "online": ""
     }
 ,
     
@@ -656,7 +656,7 @@
     },
     
     {
-        "name": "DamilTrans - MamoKupMi",
+        "name": "Mamo Kup Mi",
         "img": "",
         "lokalizacje": ["ul.Elektrowniana 2, 37-500 Jarosław", "ul. Brudzewskiego 1 37-700 Przemyśl"],
         "online": "https://mamokupmi.pl/index.php?route=product/search&search=KINDERKRAFT%20GRANDE"
@@ -923,7 +923,27 @@
         "online": ""
     }
 ,
+      {
+        "name": "Miś",
+        "img": "",
+        "lokalizacje": ["Długa 56B, 95-100, Zgierz"],
+        "online": ""
+    }
+,
+    {
+        "name": "Smykoland ",
+        "img": "",
+        "lokalizacje": ["Nadstawna 12 , 23-400 Biłgoraj"],
+        "online": ""
+    }
     
+,
+    {
+        "name": "Startbaby ",
+        "img": "",
+        "lokalizacje": ["Zabudowska 95, 15-585  Białystok"],
+        "online": ""
+    }
     {
         "name": "Pido",
         "img": "",
