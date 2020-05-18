@@ -129,6 +129,12 @@
         "lokalizacje": ["Piłsudskiego 27A, 05-600 Grójec", "2 Sierpnia 9, 05-800 Pruszków"],
         "online": ""
     },
+     {
+        "name": "Fartlandia",
+        "img": "",
+        "lokalizacje": ["Upalna 5, 15-668 Białystok", "Al. Legionów 44, 18-400 Łomża"],
+        "online": "https://fartlandia.pl/"
+    },
 
     {
         "name": "Polter ",
