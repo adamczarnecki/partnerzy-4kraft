@@ -82,7 +82,12 @@
         "lokalizacje": ["Franklina Roosevelta 89, 62-200 Gniezno", "Hurtowa 2, 62-500 Konin", "Witosa 5, 87-800 Włocławek", "Generała Jana Henryka Dąbrowskiego 6, 87-100 Toruń"],
         "online": "https://www.smykoland.pl/"
     },
-
+    {
+        "name": "Baby Fant",
+        "img": "",
+        "lokalizacje": ["Lotnicza 3, 20-322 Lublin","budowlana 44 , 20-469 Lublin", "Piłsudskiego 14 , 24-100 Puławy"],
+        "online": "https://kinderoutlet.pl/produkt/kinderkraft-wozek-spacerowy-grande-lx-black-czarny-2020-012441-3/"
+    },
     {
         "name": "ASKOT",
         "img": "",
@@ -413,13 +418,6 @@
         "img": "",
         "lokalizacje": ["Gdańska 34, 83-300 Kartuzy"],
         "online": ""
-    },
-    
-    {
-        "name": "Baby Fant",
-        "img": "",
-        "lokalizacje": ["Lotnicza 3, 20-322 Lublin","budowlana 44 , 20-469 Lublin", "Piłsudskiego 14 , 24-100 Puławy"],
-        "online": "https://kinderoutlet.pl/produkt/kinderkraft-wozek-spacerowy-grande-lx-black-czarny-2020-012441-3/"
     },
     
     {
