@@ -966,9 +966,9 @@
     
 ,
     {
-        "name": "Pido",
+        "name": "Maluszek",
         "img": "",
-        "lokalizacje": ["KONIŃSKA 24 Turek"],
-        "online": ""
+        "lokalizacje": ["Sienkiewicza 2/89, Krotoszyn"],
+        "online": "https://maluszek24.pl/"
     }
 ]
