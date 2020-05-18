@@ -942,6 +942,16 @@
         "lokalizacje": ["Zabudowska 95, 15-585  Białystok"],
         "online": ""
     }
+    
+,
+     {
+        "name": "Świat Dziecka ",
+        "img": "",
+        "lokalizacje": ["Młoda 7, 04-969 Warszawa"],
+        "online": "http://swiatdziecka.net.pl"
+    }
+    
+,
     {
         "name": "Pido",
         "img": "",
