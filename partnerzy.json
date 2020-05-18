@@ -334,6 +334,12 @@
         "lokalizacje": ["Rybnicka 2D, 44-300 Wodzisław Śląski"],
         "online": "http://www.markusia.pl/index.php?pg=produkty&sort=hits&all=0&szukaj=1&query=grande&x=0&y=0"
     },
+    {
+        "name": "MarkasBaby",
+        "img": "",
+        "lokalizacje": ["Gnieźnieńska 96A, 75-736 Koszalin"],
+        "online": "https://www.markasbaby.pl/"
+    },
     
     {
         "name": "Centrum Dziecięce Ares",
