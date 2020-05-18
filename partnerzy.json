@@ -226,7 +226,7 @@
     {
         "name": "3xk",
         "img": "",
-        "lokalizacje": ["Elekcyjna 19/U2, 01-128 Warszawa"],
+        "lokalizacje": [""],
         "online": "https://3xk.pl/search.php?text=GRANDE+LX"
     },
     
@@ -616,7 +616,13 @@
         "online": "http://sklep-bambi.pl/"
     }
 ,
-    
+        {
+        "name": "Wszystko dla Dziecka",
+        "img": "",
+        "lokalizacje": ["1 Maja 3, 67-100 Nowa Sól"],
+        "online": "https://www.wszystkodladziecka.com.pl/"
+    }
+,
     {
         "name": "Świat Dziecka",
         "img": "",
