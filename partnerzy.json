@@ -260,7 +260,7 @@
     {
         "name": "Bobasik",
         "img": "",
-        "lokalizacje": ["aleja Żołnierza 2, 73-110 Stargard"],
+        "lokalizacje": ["aleja Żołnierza 2, 73-110 Stargard","ul. Wojska Polskiego 20 C/2"],
         "online": ""
     },
       {
@@ -880,6 +880,13 @@
         "img": "",
         "lokalizacje": [],
         "online": "https://babyhit.pl/product-pol-33656-Kinderkraft-Grande-LX-Wozek-Spacerowy.html"
+    }
+,
+    {
+        "name": "babyland.pl",
+        "img": "",
+        "lokalizacje": [],
+        "online": "https://www.babyland.pl/pl/product/102579,kinderkraft-grande-lx-wozek-spacerowy"
     }
 ,
     
